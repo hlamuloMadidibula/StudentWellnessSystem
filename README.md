@@ -31,7 +31,7 @@ Embedded JavaDB (Derby)
 NetBeans / IntelliJ IDEA for development
 
 📂 Project Structure
-
+``` bash
 ├── gui/               # GUI components (Views)
 │   ├── MainApp.java
 │   ├── AppointmentsPanel.java
@@ -51,7 +51,7 @@ NetBeans / IntelliJ IDEA for development
 │
 ├── resources/         # Images/icons and data
 └── README.md
-
+```
 🚦 Usage Instructions
 
 Clone the repo
